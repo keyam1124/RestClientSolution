@@ -1,5 +1,5 @@
-﻿namespace RestClient.Domain {
-    public class KyHttpClient {
+﻿namespace KyHttpClient.Domain {
+    public abstract class KyHttpClient {
         
         private string _url;
 
